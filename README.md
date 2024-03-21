@@ -1,3 +1,3 @@
-# Fit project
+# PlaneWeather
 
-Yeah I don't know yet
+Application made to display measurements made by a sensor attached to an RC plane and their derivatives.
